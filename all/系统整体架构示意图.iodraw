@@ -59,7 +59,7 @@
           <mxGeometry x="630" y="1006" width="165" height="49" as="geometry" />
         </mxCell>
         <mxCell id="R4BWGPrJoYjQuvMVCDFE-230" value="椭圆拾取" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="640" y="1105" width="125" height="49" as="geometry" />
+          <mxGeometry x="630" y="1105" width="125" height="49" as="geometry" />
         </mxCell>
         <mxCell id="R4BWGPrJoYjQuvMVCDFE-231" value="数据存储" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="251" y="1056" width="125" height="49" as="geometry" />
@@ -155,10 +155,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="R4BWGPrJoYjQuvMVCDFE-247" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.9;exitY=0.01;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="R4BWGPrJoYjQuvMVCDFE-220" target="R4BWGPrJoYjQuvMVCDFE-228">
+        <mxCell id="R4BWGPrJoYjQuvMVCDFE-247" value="" style="curved=0;startArrow=none;endArrow=block;exitX=0.9;exitY=0.01;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="R4BWGPrJoYjQuvMVCDFE-220" target="R4BWGPrJoYjQuvMVCDFE-228">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="440" y="932" />
+              <mxPoint x="533" y="933" />
             </Array>
           </mxGeometry>
         </mxCell>
