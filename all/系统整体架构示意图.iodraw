@@ -62,7 +62,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="R4BWGPrJoYjQuvMVCDFE-392" value="选点功能" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1063" y="2068" width="124" height="49" as="geometry" />
+          <mxGeometry x="1065" y="2068" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="R4BWGPrJoYjQuvMVCDFE-393" value="拾取功能" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1065" y="2157" width="124" height="49" as="geometry" />
