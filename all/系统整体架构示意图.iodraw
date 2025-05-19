@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1436" dy="-316" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1744" dy="-133" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -14,7 +14,7 @@
           <mxGeometry x="1280" y="1905" width="235" height="348" as="geometry" />
         </mxCell>
         <mxCell id="R4BWGPrJoYjQuvMVCDFE-382" value="交互控制模块" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1066" y="1955" width="194" height="288" as="geometry" />
+          <mxGeometry x="1030" y="1930" width="194" height="288" as="geometry" />
         </mxCell>
         <mxCell id="R4BWGPrJoYjQuvMVCDFE-383" value="数据解析与显示模块" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="697" y="1900" width="263" height="303" as="geometry" />
@@ -41,13 +41,13 @@
           <mxGeometry x="781" y="2120" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="R4BWGPrJoYjQuvMVCDFE-391" value="视角控制" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1101" y="2004" width="124" height="49" as="geometry" />
+          <mxGeometry x="1065" y="1979" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="R4BWGPrJoYjQuvMVCDFE-392" value="选点功能" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1101" y="2093" width="124" height="49" as="geometry" />
+          <mxGeometry x="1065" y="2068" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="R4BWGPrJoYjQuvMVCDFE-393" value="拾取功能" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1101" y="2182" width="124" height="49" as="geometry" />
+          <mxGeometry x="1065" y="2157" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="R4BWGPrJoYjQuvMVCDFE-394" value="直线拾取" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1336" y="1955" width="124" height="49" as="geometry" />
