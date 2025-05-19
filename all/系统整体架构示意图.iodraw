@@ -73,7 +73,7 @@
         <mxCell id="R4BWGPrJoYjQuvMVCDFE-234" value="" style="curved=0;startArrow=none;endArrow=block;exitX=0.67;exitY=-0.01;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="R4BWGPrJoYjQuvMVCDFE-212" target="R4BWGPrJoYjQuvMVCDFE-215">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="186" y="44" />
+              <mxPoint x="113" y="45" />
             </Array>
           </mxGeometry>
         </mxCell>
