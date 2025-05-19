@@ -34,14 +34,6 @@
         <mxCell id="jyQgPy601o-1oPb1Myu_-9" value="数据导出" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="385" y="316" width="125" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="jyQgPy601o-1oPb1Myu_-10" value="" style="curved=0;startArrow=none;endArrow=block;exitX=0;exitY=0.85;entryX=0.5;entryY=-0.01;rounded=0;fontSize=18;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="jyQgPy601o-1oPb1Myu_-0" target="jyQgPy601o-1oPb1Myu_-1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="90" y="62" />
-              <mxPoint x="90" y="94" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="jyQgPy601o-1oPb1Myu_-11" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;fontSize=18;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="jyQgPy601o-1oPb1Myu_-1" target="jyQgPy601o-1oPb1Myu_-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
@@ -50,14 +42,6 @@
         <mxCell id="jyQgPy601o-1oPb1Myu_-12" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=18;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="jyQgPy601o-1oPb1Myu_-2" target="jyQgPy601o-1oPb1Myu_-3">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="jyQgPy601o-1oPb1Myu_-13" value="" style="curved=0;startArrow=none;endArrow=block;exitX=0.86;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;fontSize=18;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="jyQgPy601o-1oPb1Myu_-0" target="jyQgPy601o-1oPb1Myu_-4">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="360" y="69" />
-              <mxPoint x="360" y="94" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="jyQgPy601o-1oPb1Myu_-14" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.15;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;fontSize=18;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="jyQgPy601o-1oPb1Myu_-4" target="jyQgPy601o-1oPb1Myu_-5">
