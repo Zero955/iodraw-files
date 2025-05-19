@@ -173,7 +173,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="JZHsMZAfqTVsvez6RMtA-108" value="" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.76;exitY=0.01;entryX=0.55;entryY=0.99;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="JZHsMZAfqTVsvez6RMtA-87" target="JZHsMZAfqTVsvez6RMtA-90" edge="1">
+        <mxCell id="JZHsMZAfqTVsvez6RMtA-108" value="graph TD&#xa;  A[用户界面层] --&gt; A1[主视图窗口]&#xa;  A --&gt; A2[工具栏]&#xa;  A --&gt; A3[设置面板]&#xa;&#xa;&#xa;  B[功能模块层] --&gt; B1[数据解析与显示模块]&#xa;  B1 --&gt; B11[文件解析]&#xa;  B1 --&gt; B12[数据渲染]&#xa;  B1 --&gt; B13[视图控制]&#xa;&#xa;&#xa;  B --&gt; B2[交互控制模块]&#xa;  B2 --&gt; B21[视角控制]&#xa;  B2 --&gt; B22[选点功能]&#xa;  B2 --&gt; B23[拾取功能]&#xa;&#xa;&#xa;  B --&gt; B3[标注功能模块]&#xa;  B3 --&gt; B31[直线拾取]&#xa;  B3 --&gt; B32[圆拾取]&#xa;  B3 --&gt; B33[B样条曲线拾取]&#xa;  B3 --&gt; B34[椭圆拾取]&#xa;&#xa;&#xa;  C[数据管理层] --&gt; C1[数据存储]&#xa;  C --&gt; C2[历史记录]&#xa;  C --&gt; C3[数据导出]&#xa;&#xa;&#xa;  A --&gt; B&#xa;  B --&gt; C" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.76;exitY=0.01;entryX=0.55;entryY=0.99;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="JZHsMZAfqTVsvez6RMtA-87" target="JZHsMZAfqTVsvez6RMtA-90" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1082" y="292" />
