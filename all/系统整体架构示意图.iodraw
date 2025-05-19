@@ -17,7 +17,7 @@
           <mxGeometry x="1030" y="1930" width="194" height="288" as="geometry" />
         </mxCell>
         <mxCell id="R4BWGPrJoYjQuvMVCDFE-383" value="数据解析与显示模块" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="697" y="1900" width="263" height="303" as="geometry" />
+          <mxGeometry x="730" y="1900" width="230" height="303" as="geometry" />
         </mxCell>
         <mxCell id="R4BWGPrJoYjQuvMVCDFE-384" value="用户界面层" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="687" y="1740" width="843" height="99" as="geometry" />
@@ -26,7 +26,7 @@
           <mxGeometry x="780" y="1780" width="140" height="49" as="geometry" />
         </mxCell>
         <mxCell id="R4BWGPrJoYjQuvMVCDFE-386" value="工具栏" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1109" y="1780" width="108" height="49" as="geometry" />
+          <mxGeometry x="1073" y="1780" width="108" height="49" as="geometry" />
         </mxCell>
         <mxCell id="R4BWGPrJoYjQuvMVCDFE-387" value="设置面板" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1335.5" y="1780" width="124" height="49" as="geometry" />
