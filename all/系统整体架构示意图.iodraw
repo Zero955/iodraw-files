@@ -4,9 +4,6 @@
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="R4BWGPrJoYjQuvMVCDFE-341" value="FM1Detail[数据解析]" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="20" y="1617" width="543" height="99" as="geometry" />
-        </mxCell>
         <mxCell id="R4BWGPrJoYjQuvMVCDFE-379" value="Data[数据管理层]" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1008" y="1987" width="543" height="124" as="geometry" />
         </mxCell>
@@ -29,7 +26,7 @@
           <mxGeometry x="428" y="1765" width="140" height="49" as="geometry" />
         </mxCell>
         <mxCell id="R4BWGPrJoYjQuvMVCDFE-386" value="工具栏" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="893" y="1765" width="108" height="49" as="geometry" />
+          <mxGeometry x="950" y="1830" width="108" height="49" as="geometry" />
         </mxCell>
         <mxCell id="R4BWGPrJoYjQuvMVCDFE-387" value="设置面板" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1317" y="1765" width="124" height="49" as="geometry" />
