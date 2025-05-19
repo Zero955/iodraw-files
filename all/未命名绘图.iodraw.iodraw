@@ -4,6 +4,9 @@
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="jyQgPy601o-1oPb1Myu_-23" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="jyQgPy601o-1oPb1Myu_-0" target="jyQgPy601o-1oPb1Myu_-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="jyQgPy601o-1oPb1Myu_-0" value="数据输入" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="206" y="20" width="125" height="49" as="geometry" />
         </mxCell>
@@ -22,13 +25,6 @@
         </mxCell>
         <mxCell id="jyQgPy601o-1oPb1Myu_-3" value="显示模块" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="28" y="316" width="124" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="jyQgPy601o-1oPb1Myu_-20" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;startArrow=classic;startFill=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="jyQgPy601o-1oPb1Myu_-4" target="jyQgPy601o-1oPb1Myu_-0">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="360" y="45" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="jyQgPy601o-1oPb1Myu_-21" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="jyQgPy601o-1oPb1Myu_-4" target="jyQgPy601o-1oPb1Myu_-5">
           <mxGeometry relative="1" as="geometry">
