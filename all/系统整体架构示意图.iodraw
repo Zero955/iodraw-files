@@ -17,7 +17,7 @@
           <mxGeometry x="519" y="2012" width="194" height="346" as="geometry" />
         </mxCell>
         <mxCell id="R4BWGPrJoYjQuvMVCDFE-383" value="Parse[数据解析与显示模块]" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="130" y="2012" width="369" height="222" as="geometry" />
+          <mxGeometry x="150" y="2010" width="349" height="224" as="geometry" />
         </mxCell>
         <mxCell id="R4BWGPrJoYjQuvMVCDFE-384" value="用户界面层" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="393" y="1740" width="1082" height="99" as="geometry" />
