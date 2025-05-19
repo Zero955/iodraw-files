@@ -23,13 +23,13 @@
           <mxGeometry x="687" y="1740" width="843" height="99" as="geometry" />
         </mxCell>
         <mxCell id="R4BWGPrJoYjQuvMVCDFE-385" value="主视图窗口" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="715" y="1780" width="140" height="49" as="geometry" />
+          <mxGeometry x="780" y="1780" width="140" height="49" as="geometry" />
         </mxCell>
         <mxCell id="R4BWGPrJoYjQuvMVCDFE-386" value="工具栏" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="904" y="1780" width="108" height="49" as="geometry" />
+          <mxGeometry x="1109" y="1780" width="108" height="49" as="geometry" />
         </mxCell>
         <mxCell id="R4BWGPrJoYjQuvMVCDFE-387" value="设置面板" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1081" y="1780" width="124" height="49" as="geometry" />
+          <mxGeometry x="1335.5" y="1780" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="R4BWGPrJoYjQuvMVCDFE-388" value="文件解析" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="712" y="2054" width="124" height="49" as="geometry" />
