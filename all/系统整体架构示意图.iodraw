@@ -55,9 +55,10 @@
         <mxCell id="R4BWGPrJoYjQuvMVCDFE-391" value="视角控制" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1065" y="1979" width="124" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="R4BWGPrJoYjQuvMVCDFE-427" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="R4BWGPrJoYjQuvMVCDFE-392">
+        <mxCell id="R4BWGPrJoYjQuvMVCDFE-427" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1276" y="2090" as="targetPoint" />
+            <mxPoint x="1189" y="2093.229731543624" as="sourcePoint" />
+            <mxPoint x="1276" y="2091.77" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="R4BWGPrJoYjQuvMVCDFE-392" value="选点功能" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
