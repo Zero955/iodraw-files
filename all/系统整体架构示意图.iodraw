@@ -8,10 +8,10 @@
           <mxGeometry x="1008" y="1987" width="543" height="124" as="geometry" />
         </mxCell>
         <mxCell id="R4BWGPrJoYjQuvMVCDFE-380" value="功能模块层" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="110" y="1987" width="878" height="520" as="geometry" />
+          <mxGeometry x="110" y="1987" width="878" height="383" as="geometry" />
         </mxCell>
         <mxCell id="R4BWGPrJoYjQuvMVCDFE-381" value="标注功能模块" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="733" y="2012" width="235" height="470" as="geometry" />
+          <mxGeometry x="733" y="2012" width="235" height="348" as="geometry" />
         </mxCell>
         <mxCell id="R4BWGPrJoYjQuvMVCDFE-382" value="交互控制模块" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="519" y="2062" width="194" height="288" as="geometry" />
@@ -53,13 +53,13 @@
           <mxGeometry x="789" y="2062" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="R4BWGPrJoYjQuvMVCDFE-395" value="圆拾取" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="796" y="2161" width="108" height="49" as="geometry" />
+          <mxGeometry x="796.5" y="2140" width="108" height="49" as="geometry" />
         </mxCell>
         <mxCell id="R4BWGPrJoYjQuvMVCDFE-396" value="B样条曲线拾取" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="768.5" y="2240" width="165" height="49" as="geometry" />
+          <mxGeometry x="768.5" y="2210" width="165" height="49" as="geometry" />
         </mxCell>
         <mxCell id="R4BWGPrJoYjQuvMVCDFE-397" value="椭圆拾取" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="788.5" y="2320" width="125" height="49" as="geometry" />
+          <mxGeometry x="789" y="2285" width="125" height="49" as="geometry" />
         </mxCell>
         <mxCell id="R4BWGPrJoYjQuvMVCDFE-398" value="数据存储" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1043" y="2037" width="125" height="49" as="geometry" />
