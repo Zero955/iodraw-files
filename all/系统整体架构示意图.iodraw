@@ -196,7 +196,7 @@
         <mxCell id="R4BWGPrJoYjQuvMVCDFE-338" value="DM[数据管理层]" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1145" y="1617" width="543" height="99" as="geometry" />
         </mxCell>
-        <mxCell id="R4BWGPrJoYjQuvMVCDFE-339" value="FM3Detail[标注功能]" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="R4BWGPrJoYjQuvMVCDFE-339" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1709" y="1617" width="710" height="99" as="geometry" />
         </mxCell>
         <mxCell id="R4BWGPrJoYjQuvMVCDFE-340" value="FM2Detail[交互控制]" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
