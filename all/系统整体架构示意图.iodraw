@@ -41,7 +41,10 @@
           <mxGeometry x="1335.5" y="1780" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="R4BWGPrJoYjQuvMVCDFE-388" value="文件解析" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="780" y="1970" width="124" height="49" as="geometry" />
+          <mxGeometry x="781" y="1979" width="124" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="R4BWGPrJoYjQuvMVCDFE-426" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="R4BWGPrJoYjQuvMVCDFE-389" target="R4BWGPrJoYjQuvMVCDFE-382">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="R4BWGPrJoYjQuvMVCDFE-389" value="数据渲染" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="780" y="2068" width="125" height="49" as="geometry" />
