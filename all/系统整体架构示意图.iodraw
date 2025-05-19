@@ -7,7 +7,7 @@
         <mxCell id="R4BWGPrJoYjQuvMVCDFE-379" value="Data[数据管理层]" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1008" y="1987" width="543" height="124" as="geometry" />
         </mxCell>
-        <mxCell id="R4BWGPrJoYjQuvMVCDFE-380" value="Func[功能模块层]" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="R4BWGPrJoYjQuvMVCDFE-380" value="功能模块层" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="110" y="1987" width="878" height="520" as="geometry" />
         </mxCell>
         <mxCell id="R4BWGPrJoYjQuvMVCDFE-381" value="Annotation[标注功能模块]" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
