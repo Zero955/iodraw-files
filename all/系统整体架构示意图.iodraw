@@ -82,6 +82,9 @@
         <mxCell id="R4BWGPrJoYjQuvMVCDFE-399" value="历史记录" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="319" y="2068" width="124" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="R4BWGPrJoYjQuvMVCDFE-425" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="R4BWGPrJoYjQuvMVCDFE-400" target="R4BWGPrJoYjQuvMVCDFE-380">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="R4BWGPrJoYjQuvMVCDFE-400" value="数据导出" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="493" y="2068" width="125" height="49" as="geometry" />
         </mxCell>
