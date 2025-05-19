@@ -70,7 +70,7 @@
         <mxCell id="R4BWGPrJoYjQuvMVCDFE-233" value="数据导出" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="251" y="1253" width="125" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="R4BWGPrJoYjQuvMVCDFE-234" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.67;exitY=-0.01;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="R4BWGPrJoYjQuvMVCDFE-212" target="R4BWGPrJoYjQuvMVCDFE-215">
+        <mxCell id="R4BWGPrJoYjQuvMVCDFE-234" value="" style="curved=0;startArrow=none;endArrow=block;exitX=0.67;exitY=-0.01;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="R4BWGPrJoYjQuvMVCDFE-212" target="R4BWGPrJoYjQuvMVCDFE-215">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="186" y="44" />
