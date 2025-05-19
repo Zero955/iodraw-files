@@ -19,7 +19,7 @@
         <mxCell id="R4BWGPrJoYjQuvMVCDFE-383" value="Parse[数据解析与显示模块]" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="130" y="2012" width="369" height="222" as="geometry" />
         </mxCell>
-        <mxCell id="R4BWGPrJoYjQuvMVCDFE-384" value="UI[用户界面层]" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="R4BWGPrJoYjQuvMVCDFE-384" value="" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=middle;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="393" y="1740" width="1082" height="99" as="geometry" />
         </mxCell>
         <mxCell id="R4BWGPrJoYjQuvMVCDFE-385" value="主视图窗口" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
