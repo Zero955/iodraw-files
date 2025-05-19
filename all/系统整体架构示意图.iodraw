@@ -29,7 +29,7 @@
           <mxGeometry x="235" y="612" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="R4BWGPrJoYjQuvMVCDFE-220" value="标注功能模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="235" y="957" width="156" height="49" as="geometry" />
+          <mxGeometry x="391" y="957" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="R4BWGPrJoYjQuvMVCDFE-221" value="文件解析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="486" y="217" width="124" height="49" as="geometry" />
@@ -105,6 +105,7 @@
         <mxCell id="R4BWGPrJoYjQuvMVCDFE-239" value="" style="curved=0;startArrow=none;endArrow=block;exitX=0.55;exitY=0.99;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="R4BWGPrJoYjQuvMVCDFE-213" target="R4BWGPrJoYjQuvMVCDFE-220">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
+              <mxPoint x="97" y="982" />
               <mxPoint x="186" y="982" />
             </Array>
           </mxGeometry>
