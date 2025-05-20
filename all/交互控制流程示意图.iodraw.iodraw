@@ -23,7 +23,7 @@
           <mxGeometry x="520" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5JjGgHHlnDiow7DM6-04-40" value="操作模式判断" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="320" y="420" width="160" height="80" as="geometry" />
+          <mxGeometry x="320" y="410" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="5JjGgHHlnDiow7DM6-04-41" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="540" width="120" height="60" as="geometry" />
@@ -46,7 +46,7 @@
         <mxCell id="5JjGgHHlnDiow7DM6-04-47" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="340" y="700" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5JjGgHHlnDiow7DM6-04-48" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="5JjGgHHlnDiow7DM6-04-48" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="340" y="780" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
