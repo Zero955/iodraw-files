@@ -25,16 +25,19 @@
         <mxCell id="Uodxj10R3NIOTDydRZX4-4" value="数据归一化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="340" y="360" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Uodxj10R3NIOTDydRZX4-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Uodxj10R3NIOTDydRZX4-5" target="Uodxj10R3NIOTDydRZX4-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Uodxj10R3NIOTDydRZX4-5" value="归一化成功？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="360" y="440" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Uodxj10R3NIOTDydRZX4-8" value="构建数组" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="340" y="540" width="120" height="60" as="geometry" />
+          <mxGeometry x="340" y="550" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Uodxj10R3NIOTDydRZX4-9" value="初始化OpenGL" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="340" y="620" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Uodxj10R3NIOTDydRZX4-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Uodxj10R3NIOTDydRZX4-10" value="渲染模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="340" y="700" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Uodxj10R3NIOTDydRZX4-11" value="结束" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
