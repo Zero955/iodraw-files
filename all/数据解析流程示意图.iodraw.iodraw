@@ -4,13 +4,13 @@
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="Uodxj10R3NIOTDydRZX4-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Uodxj10R3NIOTDydRZX4-0" target="Uodxj10R3NIOTDydRZX4-1">
+        <mxCell id="Uodxj10R3NIOTDydRZX4-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontSize=20;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Uodxj10R3NIOTDydRZX4-0" target="Uodxj10R3NIOTDydRZX4-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Uodxj10R3NIOTDydRZX4-0" value="开始" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Uodxj10R3NIOTDydRZX4-0" value="开始" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;labelBackgroundColor=none;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="340" y="110" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Uodxj10R3NIOTDydRZX4-1" value="打开文件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Uodxj10R3NIOTDydRZX4-1" value="打开文件" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="340" y="200" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
