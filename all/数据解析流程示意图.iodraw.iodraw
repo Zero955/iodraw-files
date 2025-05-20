@@ -31,7 +31,7 @@
         <mxCell id="Uodxj10R3NIOTDydRZX4-8" value="构建数组" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="340" y="540" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Uodxj10R3NIOTDydRZX4-9" value="初始化opengl" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Uodxj10R3NIOTDydRZX4-9" value="初始化OpenGL" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="340" y="620" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Uodxj10R3NIOTDydRZX4-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
