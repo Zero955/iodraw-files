@@ -16,7 +16,7 @@
         <mxCell id="80W3LlZH4PYYD557fspI-3" value="生成标注数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="354" y="280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="80W3LlZH4PYYD557fspI-4" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="80W3LlZH4PYYD557fspI-4" value="是否成功？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="344" y="360" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="80W3LlZH4PYYD557fspI-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
