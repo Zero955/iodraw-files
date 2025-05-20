@@ -23,31 +23,31 @@
           <mxGeometry x="520" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5JjGgHHlnDiow7DM6-04-40" value="操作模式判断" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="320" y="410" width="160" height="80" as="geometry" />
+          <mxGeometry x="320" y="400" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="5JjGgHHlnDiow7DM6-04-41" value="选择点" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="160" y="510" width="120" height="60" as="geometry" />
+          <mxGeometry x="160" y="500" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5JjGgHHlnDiow7DM6-04-42" value="拾取曲线" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="340" y="510" width="120" height="60" as="geometry" />
+          <mxGeometry x="340" y="500" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5JjGgHHlnDiow7DM6-04-43" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="520" y="510" width="120" height="60" as="geometry" />
+          <mxGeometry x="520" y="500" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5JjGgHHlnDiow7DM6-04-44" value="更新选中状态" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="160" y="590" width="120" height="60" as="geometry" />
+          <mxGeometry x="160" y="580" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5JjGgHHlnDiow7DM6-04-45" value="更新选中状态" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="340" y="590" width="120" height="60" as="geometry" />
+          <mxGeometry x="340" y="580" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5JjGgHHlnDiow7DM6-04-46" value="更新选中状态" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="520" y="590" width="120" height="60" as="geometry" />
+          <mxGeometry x="520" y="580" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5JjGgHHlnDiow7DM6-04-47" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="340" y="670" width="120" height="60" as="geometry" />
+          <mxGeometry x="340" y="660" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5JjGgHHlnDiow7DM6-04-48" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="340" y="750" width="120" height="60" as="geometry" />
+          <mxGeometry x="340" y="740" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
