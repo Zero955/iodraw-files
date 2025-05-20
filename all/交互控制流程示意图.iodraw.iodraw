@@ -22,40 +22,40 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5JjGgHHlnDiow7DM6-04-40" value="操作模式判断" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="320" y="400" width="160" height="80" as="geometry" />
+          <mxGeometry x="320" y="220" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="5JjGgHHlnDiow7DM6-04-41" value="选择点" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="160" y="500" width="120" height="60" as="geometry" />
+          <mxGeometry x="160" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5JjGgHHlnDiow7DM6-04-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5JjGgHHlnDiow7DM6-04-42" target="5JjGgHHlnDiow7DM6-04-45">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5JjGgHHlnDiow7DM6-04-42" value="拾取曲线" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="340" y="500" width="120" height="60" as="geometry" />
+          <mxGeometry x="340" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5JjGgHHlnDiow7DM6-04-43" value="平移旋转缩放" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="520" y="500" width="120" height="60" as="geometry" />
+          <mxGeometry x="520" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5JjGgHHlnDiow7DM6-04-44" value="更新选中状态" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="160" y="580" width="120" height="60" as="geometry" />
+          <mxGeometry x="160" y="400" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5JjGgHHlnDiow7DM6-04-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5JjGgHHlnDiow7DM6-04-45" target="5JjGgHHlnDiow7DM6-04-47">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5JjGgHHlnDiow7DM6-04-45" value="更新拾取状态" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="340" y="580" width="120" height="60" as="geometry" />
+          <mxGeometry x="340" y="400" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5JjGgHHlnDiow7DM6-04-46" value="更新变换矩阵" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="520" y="580" width="120" height="60" as="geometry" />
+          <mxGeometry x="520" y="400" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5JjGgHHlnDiow7DM6-04-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5JjGgHHlnDiow7DM6-04-47" target="5JjGgHHlnDiow7DM6-04-48">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5JjGgHHlnDiow7DM6-04-47" value="重绘场景" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="340" y="660" width="120" height="60" as="geometry" />
+          <mxGeometry x="340" y="480" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5JjGgHHlnDiow7DM6-04-48" value="结束" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="340" y="740" width="120" height="60" as="geometry" />
+          <mxGeometry x="340" y="560" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5JjGgHHlnDiow7DM6-04-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5JjGgHHlnDiow7DM6-04-40" target="5JjGgHHlnDiow7DM6-04-40">
           <mxGeometry relative="1" as="geometry" />
