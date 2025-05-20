@@ -28,7 +28,7 @@
         <mxCell id="5JjGgHHlnDiow7DM6-04-41" value="选择点" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="510" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5JjGgHHlnDiow7DM6-04-42" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="5JjGgHHlnDiow7DM6-04-42" value="拾取曲线" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="340" y="510" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5JjGgHHlnDiow7DM6-04-43" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -37,7 +37,7 @@
         <mxCell id="5JjGgHHlnDiow7DM6-04-44" value="更新选中状态" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="590" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5JjGgHHlnDiow7DM6-04-45" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="5JjGgHHlnDiow7DM6-04-45" value="更新选中状态" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="340" y="590" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5JjGgHHlnDiow7DM6-04-46" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
