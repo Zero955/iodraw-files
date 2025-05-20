@@ -60,7 +60,7 @@
         <mxCell id="Uodxj10R3NIOTDydRZX4-23" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="365" y="520" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Uodxj10R3NIOTDydRZX4-24" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Uodxj10R3NIOTDydRZX4-24" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;显示处理错误&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="520" y="640" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
