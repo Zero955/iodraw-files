@@ -4,11 +4,20 @@
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="80W3LlZH4PYYD557fspI-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="80W3LlZH4PYYD557fspI-0" target="80W3LlZH4PYYD557fspI-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="80W3LlZH4PYYD557fspI-0" value="开始" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="354" y="40" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="80W3LlZH4PYYD557fspI-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="80W3LlZH4PYYD557fspI-1" target="80W3LlZH4PYYD557fspI-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="80W3LlZH4PYYD557fspI-1" value="用户选择格式类型" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="354" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="80W3LlZH4PYYD557fspI-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="80W3LlZH4PYYD557fspI-2" target="80W3LlZH4PYYD557fspI-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="80W3LlZH4PYYD557fspI-2" value="选择两个点" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="354" y="200" width="120" height="60" as="geometry" />
