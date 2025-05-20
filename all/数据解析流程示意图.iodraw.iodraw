@@ -16,13 +16,16 @@
         <mxCell id="Uodxj10R3NIOTDydRZX4-1" value="打开文件" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="340" y="200" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Uodxj10R3NIOTDydRZX4-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Uodxj10R3NIOTDydRZX4-3" target="Uodxj10R3NIOTDydRZX4-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Uodxj10R3NIOTDydRZX4-3" value="读取数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="340" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Uodxj10R3NIOTDydRZX4-4" value="数据归一化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="340" y="360" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Uodxj10R3NIOTDydRZX4-5" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Uodxj10R3NIOTDydRZX4-5" value="归一化成功？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="360" y="440" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
