@@ -73,7 +73,7 @@
         <mxCell id="R4BWGPrJoYjQuvMVCDFE-395" value="圆拾取" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;fontFamily=宋体;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1343.5" y="2028" width="108" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="R4BWGPrJoYjQuvMVCDFE-396" value="B样条曲线拾取" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;fontFamily=Times New Roman;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="R4BWGPrJoYjQuvMVCDFE-396" value="B样条曲线拾取" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;fontFamily=宋体;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1315.5" y="2103" width="165" height="49" as="geometry" />
         </mxCell>
         <mxCell id="R4BWGPrJoYjQuvMVCDFE-397" value="椭圆拾取" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;fontFamily=宋体;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
