@@ -14,7 +14,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="80W3LlZH4PYYD557fspI-1" value="用户选择格式类型" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="354" y="120" width="120" height="60" as="geometry" />
+          <mxGeometry x="320" y="120" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="80W3LlZH4PYYD557fspI-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="80W3LlZH4PYYD557fspI-2" target="80W3LlZH4PYYD557fspI-3">
           <mxGeometry relative="1" as="geometry" />
