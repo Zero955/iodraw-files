@@ -11,7 +11,7 @@
           <mxGeometry x="414" y="1550" width="848" height="383" as="geometry" />
         </mxCell>
         <mxCell id="R4BWGPrJoYjQuvMVCDFE-381" value="标注功能模块" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=20;fontFamily=Helvetica;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="996" y="1580" width="235" height="348" as="geometry" />
+          <mxGeometry x="996" y="1580" width="235" height="340" as="geometry" />
         </mxCell>
         <mxCell id="R4BWGPrJoYjQuvMVCDFE-382" value="交互控制模块" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=20;fontFamily=Helvetica;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="741" y="1597" width="204" height="300" as="geometry" />
@@ -57,9 +57,6 @@
         </mxCell>
         <mxCell id="R4BWGPrJoYjQuvMVCDFE-392" value="拾取功能" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;fontFamily=Helvetica;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="781" y="1738" width="124" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="L3gjejW0b2sFVwHoPJiS-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="R4BWGPrJoYjQuvMVCDFE-393" target="R4BWGPrJoYjQuvMVCDFE-381">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="R4BWGPrJoYjQuvMVCDFE-393" value="选点功能" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;fontFamily=Helvetica;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="781" y="1820" width="124" height="49" as="geometry" />
@@ -120,6 +117,9 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="L3gjejW0b2sFVwHoPJiS-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.779;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="R4BWGPrJoYjQuvMVCDFE-393" target="R4BWGPrJoYjQuvMVCDFE-381">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
