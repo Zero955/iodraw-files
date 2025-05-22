@@ -8,7 +8,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TqdGlYunCF1rBcalMhLW-46" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="240" width="120" height="60" as="geometry" />
+          <mxGeometry y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TqdGlYunCF1rBcalMhLW-47" value="OBJ模型文件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="340" width="120" height="60" as="geometry" />
@@ -31,8 +31,8 @@
         <mxCell id="TqdGlYunCF1rBcalMhLW-53" value="历史记录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="340" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TqdGlYunCF1rBcalMhLW-55" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="155" y="248" width="50" height="30" as="geometry" />
+        <mxCell id="TqdGlYunCF1rBcalMhLW-55" value="用户交互" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="145" y="248" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
