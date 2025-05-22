@@ -34,6 +34,9 @@
         <mxCell id="ia3hfdGjlim2Vlh_m18O-6" value="拾取模式？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="270" width="140" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="ia3hfdGjlim2Vlh_m18O-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
