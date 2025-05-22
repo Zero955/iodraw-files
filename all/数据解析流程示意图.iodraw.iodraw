@@ -84,6 +84,9 @@
         <mxCell id="pg7tv6tkOdwBHdjutkk4-4" value="显示模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="340" y="850" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="pg7tv6tkOdwBHdjutkk4-9" value="开始" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;labelBackgroundColor=none;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="350" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
