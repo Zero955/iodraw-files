@@ -18,11 +18,14 @@
         </mxCell>
         <mxCell id="TqdGlYunCF1rBcalMhLW-64" value="渲染与显示" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TqdGlYunCF1rBcalMhLW-62">
           <mxGeometry x="-0.2133" y="3" relative="1" as="geometry">
-            <mxPoint x="17" as="offset" />
+            <mxPoint x="27" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TqdGlYunCF1rBcalMhLW-47" value="OBJ模型文件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-80" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TqdGlYunCF1rBcalMhLW-65" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="TqdGlYunCF1rBcalMhLW-48" target="TqdGlYunCF1rBcalMhLW-49">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TqdGlYunCF1rBcalMhLW-48" value="模型缓存" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-80" y="470" width="120" height="60" as="geometry" />
