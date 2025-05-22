@@ -7,11 +7,17 @@
         <mxCell id="TqdGlYunCF1rBcalMhLW-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TqdGlYunCF1rBcalMhLW-46" target="TqdGlYunCF1rBcalMhLW-49">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="TqdGlYunCF1rBcalMhLW-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TqdGlYunCF1rBcalMhLW-46" target="TqdGlYunCF1rBcalMhLW-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="TqdGlYunCF1rBcalMhLW-46" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-80" y="240" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="TqdGlYunCF1rBcalMhLW-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TqdGlYunCF1rBcalMhLW-47" target="TqdGlYunCF1rBcalMhLW-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="TqdGlYunCF1rBcalMhLW-47" value="OBJ模型文件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-80" y="340" width="120" height="60" as="geometry" />
+          <mxGeometry x="-90" y="360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TqdGlYunCF1rBcalMhLW-48" value="模型缓存" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-80" y="470" width="120" height="60" as="geometry" />
