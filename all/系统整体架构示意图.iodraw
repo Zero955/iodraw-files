@@ -58,6 +58,9 @@
         <mxCell id="R4BWGPrJoYjQuvMVCDFE-392" value="拾取功能" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;fontFamily=Helvetica;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="781" y="1738" width="124" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="L3gjejW0b2sFVwHoPJiS-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="R4BWGPrJoYjQuvMVCDFE-393" target="R4BWGPrJoYjQuvMVCDFE-381">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="R4BWGPrJoYjQuvMVCDFE-393" value="选点功能" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;fontFamily=Helvetica;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="781" y="1820" width="124" height="49" as="geometry" />
         </mxCell>
@@ -68,7 +71,7 @@
           <mxGeometry x="1059.5" y="1698" width="108" height="49" as="geometry" />
         </mxCell>
         <mxCell id="R4BWGPrJoYjQuvMVCDFE-396" value="B样条曲线拾取" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;fontFamily=Helvetica;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="1031.5" y="1773" width="165" height="49" as="geometry" />
+          <mxGeometry x="1031" y="1773" width="165" height="49" as="geometry" />
         </mxCell>
         <mxCell id="R4BWGPrJoYjQuvMVCDFE-397" value="椭圆拾取" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;fontFamily=Helvetica;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1052" y="1848" width="125" height="49" as="geometry" />
