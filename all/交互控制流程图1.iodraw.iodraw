@@ -49,6 +49,16 @@
         <mxCell id="ia3hfdGjlim2Vlh_m18O-11" value="平移旋转缩放" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="430" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="ia3hfdGjlim2Vlh_m18O-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ia3hfdGjlim2Vlh_m18O-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="110" y="630" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="510" y="610" />
+              <mxPoint x="111" y="610" />
+              <mxPoint x="111" y="630" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="ia3hfdGjlim2Vlh_m18O-12" value="更新变换矩阵" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="520" width="120" height="60" as="geometry" />
         </mxCell>
@@ -69,6 +79,14 @@
         </mxCell>
         <mxCell id="ia3hfdGjlim2Vlh_m18O-19" value="拾取曲线" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="435" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ia3hfdGjlim2Vlh_m18O-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ia3hfdGjlim2Vlh_m18O-20" target="ia3hfdGjlim2Vlh_m18O-27">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="300" y="610" />
+              <mxPoint x="110" y="610" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="ia3hfdGjlim2Vlh_m18O-20" value="更新拾取状态" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="525" width="120" height="60" as="geometry" />
