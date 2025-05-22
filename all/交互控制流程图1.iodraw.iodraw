@@ -116,8 +116,8 @@
         <mxCell id="ia3hfdGjlim2Vlh_m18O-42" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;输出错误信息&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="610" y="520" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ia3hfdGjlim2Vlh_m18O-44" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="585" y="338" width="50" height="30" as="geometry" />
+        <mxCell id="ia3hfdGjlim2Vlh_m18O-44" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;否&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="590" y="338" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
