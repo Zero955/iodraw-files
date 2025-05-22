@@ -72,10 +72,10 @@
           <mxGeometry x="-75" y="318" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TqdGlYunCF1rBcalMhLW-66" value="显示与渲染" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="55" y="330" width="90" height="30" as="geometry" />
+          <mxGeometry x="40" y="330" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TqdGlYunCF1rBcalMhLW-67" value="导出" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="285" y="248" width="50" height="30" as="geometry" />
+          <mxGeometry x="295" y="240" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TqdGlYunCF1rBcalMhLW-74" value="导出" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="295" y="360" width="50" height="30" as="geometry" />
