@@ -62,7 +62,7 @@
           <mxGeometry x="781" y="1738" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="R4BWGPrJoYjQuvMVCDFE-393" value="拾取功能" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;fontFamily=Helvetica;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="781" y="1827" width="124" height="49" as="geometry" />
+          <mxGeometry x="779" y="1820" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="R4BWGPrJoYjQuvMVCDFE-394" value="直线拾取" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;fontFamily=Helvetica;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1052" y="1625" width="124" height="49" as="geometry" />
