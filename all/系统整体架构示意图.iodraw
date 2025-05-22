@@ -55,16 +55,10 @@
         <mxCell id="R4BWGPrJoYjQuvMVCDFE-391" value="视角控制" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;fontFamily=Helvetica;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="781" y="1649" width="124" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="R4BWGPrJoYjQuvMVCDFE-427" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;fontFamily=Helvetica;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="905" y="1763.229731543624" as="sourcePoint" />
-            <mxPoint x="992" y="1762" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="R4BWGPrJoYjQuvMVCDFE-392" value="选点功能" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;fontFamily=Helvetica;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="R4BWGPrJoYjQuvMVCDFE-392" value="拾取功能" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;fontFamily=Helvetica;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="781" y="1738" width="124" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="R4BWGPrJoYjQuvMVCDFE-393" value="拾取功能" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;fontFamily=Helvetica;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="R4BWGPrJoYjQuvMVCDFE-393" value="选点功能" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;fontFamily=Helvetica;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="781" y="1820" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="R4BWGPrJoYjQuvMVCDFE-394" value="直线拾取" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;fontFamily=Helvetica;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
