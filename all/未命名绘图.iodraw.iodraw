@@ -5,22 +5,22 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="hMeWTTi0FKUZvdRdUwcK-1" value="OBJ 文件导入" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="115" y="20" width="156" height="49" as="geometry" />
+          <mxGeometry x="305" y="50" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="hMeWTTi0FKUZvdRdUwcK-2" value="数据解析模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="115" y="119" width="157" height="49" as="geometry" />
+          <mxGeometry x="305" y="149" width="157" height="49" as="geometry" />
         </mxCell>
         <mxCell id="hMeWTTi0FKUZvdRdUwcK-3" value="三维渲染与视图控制模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="76" y="217" width="236" height="49" as="geometry" />
+          <mxGeometry x="266" y="247" width="236" height="49" as="geometry" />
         </mxCell>
         <mxCell id="hMeWTTi0FKUZvdRdUwcK-4" value="交互控制模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="116" y="316" width="156" height="49" as="geometry" />
+          <mxGeometry x="306" y="346" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="hMeWTTi0FKUZvdRdUwcK-5" value="数据导出模块&#xa;(JSON 格式)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="415" width="157" height="66" as="geometry" />
+          <mxGeometry x="210" y="445" width="157" height="66" as="geometry" />
         </mxCell>
         <mxCell id="hMeWTTi0FKUZvdRdUwcK-6" value="标注模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="227" y="423" width="124" height="49" as="geometry" />
+          <mxGeometry x="417" y="453" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="hMeWTTi0FKUZvdRdUwcK-7" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="hMeWTTi0FKUZvdRdUwcK-1" target="hMeWTTi0FKUZvdRdUwcK-2">
           <mxGeometry relative="1" as="geometry">
@@ -40,14 +40,14 @@
         <mxCell id="hMeWTTi0FKUZvdRdUwcK-10" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.2;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="hMeWTTi0FKUZvdRdUwcK-4" target="hMeWTTi0FKUZvdRdUwcK-5">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="98" y="390" />
+              <mxPoint x="288" y="420" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="hMeWTTi0FKUZvdRdUwcK-11" value="" style="curved=1;startArrow=block;endArrow=block;exitX=0.8;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="hMeWTTi0FKUZvdRdUwcK-4" target="hMeWTTi0FKUZvdRdUwcK-6">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="289" y="390" />
+              <mxPoint x="479" y="420" />
             </Array>
           </mxGeometry>
         </mxCell>
